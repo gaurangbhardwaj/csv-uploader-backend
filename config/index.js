@@ -1,7 +1,3 @@
-/**
- * Created by AyushK on 17/09/20.
- */
-
 const path = require('path')
 const extend = require('util')._extend
 const local = require('./env/local')
